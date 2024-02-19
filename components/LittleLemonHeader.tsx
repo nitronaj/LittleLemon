@@ -7,10 +7,11 @@ export default function LittleLemonHeader() {
 				style={{
 					padding: 10,
 					paddingTop: 60,
-					fontSize: 30,
+					fontSize: 34,
 					color: 'black',
 					textAlign: 'center',
-				}}>
+				}}
+			>
 				Little Lemon
 			</Text>
 		</View>
